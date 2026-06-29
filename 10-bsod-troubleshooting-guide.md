@@ -556,4 +556,4 @@ Effective BSOD troubleshooting requires:
 * Driver and hardware validation
 * Log analysis using Event Viewer
 
-This guide provides a **real-world IT support workflow suitable for enterprise environments and GitHub portfolio documentation**.
+This guide provides a **real-world IT support workflow suitable for enterprise environments**.
