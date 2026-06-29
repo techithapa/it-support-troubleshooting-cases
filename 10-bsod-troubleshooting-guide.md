@@ -547,28 +547,6 @@ GPU stability restored.
 
 ---
 
-# Visual Troubleshooting Flow (Recommended GitHub Image)
-
-📌 *Add diagram as image file in GitHub*
-
-```
-[BSOD Occurs]
-      ↓
-[Safe Mode Boot]
-      ↓
-[Event Viewer Analysis]
-      ↓
-[Driver or Hardware Identification]
-      ↓
-[SFC / DISM / CHKDSK]
-      ↓
-[Fix Applied]
-      ↓
-[System Validation]
-```
-
----
-
 # Conclusion
 
 Effective BSOD troubleshooting requires:
